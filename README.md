@@ -1,4 +1,4 @@
-<p><img width="40%" align="right" src="https://github.com/jaywonchung/SymbioticLab.github/blob/main/cover.png"></p>
+<p><img width="40%" align="right" src="https://github.com/jaywonchung/SymbioticLab.github/blob/main/cover.jpeg"></p>
 
 # SymbioticLab
 
