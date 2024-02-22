@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ml-energy/zeus">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=dark&show_owner=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=github_dark&show_owner=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&show_owner=true">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&show_owner=true" alt="zeus repo card">
   </picture>
