@@ -2,14 +2,43 @@
 
 <a href="https://github.com/ml-energy/zeus">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=github_dark&show_owner=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&show_owner=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&show_owner=true" alt="zeus repo card">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=true" alt="zeus repo card">
   </picture>
 </a>
-<!-- [![Zeus Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-energy&repo=zeus&description_lines_count=2&show_owner=true)](https://github.com/ml-energy/zeus) -->
-<!-- [![Oobleck Card](https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Oobleck&description_lines_count=2)](https://github.com/SymbioticLab/Oobleck) -->
-<!-- [![ModelKeeper Card](https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=ModelKeeper&description_lines_count=2)](https://github.com/SymbioticLab/ModelKeeper) -->
-<!-- [![Aequitas Card](https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Aequitas&description_lines_count=2)](https://github.com/SymbioticLab/Aequitas) -->
-<!-- [![FedScale Card](https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=FedScale&description_lines_count=2)](https://github.com/SymbioticLab/FedScale) -->
-<!-- [![Justitia Card](https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Justitia&description_lines_count=2)](https://github.com/SymbioticLab/Justitia) -->
+<a href="https://github.com/SymbioticLab/Oobleck">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Oobleck&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Oobleck&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Oobleck&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false" alt="Oobleck repo card">
+  </picture>
+</a>
+<a href="https://github.com/SymbioticLab/ModelKeeper">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=ModelKeeper&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=ModelKeeper&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=ModelKeeper&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false" alt="ModelKeeper repo card">
+  </picture>
+</a>
+<a href="https://github.com/SymbioticLab/Aequitas">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Aequitas&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Aequitas&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Aequitas&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false" alt="Aequitas repo card">
+  </picture>
+</a>
+<a href="https://github.com/SymbioticLab/FedScale">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=FedScale&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=FedScale&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=FedScale&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false" alt="FedScale repo card">
+  </picture>
+</a>
+<a href="https://github.com/SymbioticLab/Justitia">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Justitia&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Justitia&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SymbioticLab&repo=Justitia&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false" alt="Justitia repo card">
+  </picture>
+</a>
